@@ -9,3 +9,7 @@ These changes only appear on rama 2.
 
 ##  Rama 2 Local
 These changes are in Github
+
+## Rama 2 Remoto
+These changes are in Github
+
