@@ -6,3 +6,6 @@ local content
 
 ## Rama 2
 These changes only appear on rama 2.
+
+## Rama 2 Remoto
+These changes are in Github
